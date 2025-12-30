@@ -25,4 +25,4 @@ build/
 *.egg-info/
 
 # Kaggle data
-data/
+# data/
